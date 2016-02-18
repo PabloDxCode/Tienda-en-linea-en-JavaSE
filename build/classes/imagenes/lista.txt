@@ -1,0 +1,6 @@
+Celulares, camaras y relojes           1 a 7
+Computadoras                           8 a 21
+Dispositivos GPS                       22 y 23
+Reproductores e instrumentos           24 a 38
+Televisores                            39 y 40
+Videojuegos                            41 a 46
